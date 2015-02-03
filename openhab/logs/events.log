@@ -1,0 +1,854 @@
+2015-02-02 13:24:58 - Light_GF_Living_Table state updated to ON
+2015-02-02 13:24:58 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_GF_Kitchen_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-02 13:24:58 - Light_GF_Corridor_Wardrobe state updated to OFF
+2015-02-02 13:24:58 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_GF_Toilet_Mirror state updated to OFF
+2015-02-02 13:24:58 - Light_FF_Bath_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_FF_Bath_Mirror state updated to ON
+2015-02-02 13:24:58 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_FF_Bed_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_C_Staircase state updated to ON
+2015-02-02 13:24:58 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-02 13:24:58 - Light_C_Workshop state updated to ON
+2015-02-02 13:24:58 - Light_Outdoor_Garage state updated to ON
+2015-02-02 13:24:58 - Light_Outdoor_Terrace state updated to ON
+2015-02-02 13:24:58 - Light_Outdoor_Frontdoor state updated to ON
+2015-02-02 13:24:58 - Heating_GF_Corridor state updated to OFF
+2015-02-02 13:24:58 - Heating_GF_Toilet state updated to ON
+2015-02-02 13:24:58 - Heating_GF_Living state updated to ON
+2015-02-02 13:24:58 - Heating_GF_Kitchen state updated to ON
+2015-02-02 13:24:58 - Heating_FF_Bath state updated to OFF
+2015-02-02 13:24:58 - Heating_FF_Office state updated to OFF
+2015-02-02 13:24:58 - Heating_FF_Child state updated to OFF
+2015-02-02 13:24:58 - Heating_FF_Bed state updated to OFF
+2015-02-02 13:24:58 - Temperature_Setpoint state updated to 22
+2015-02-02 13:24:58 - Window_GF_Frontdoor state updated to CLOSED
+2015-02-02 13:24:58 - Window_GF_Kitchen state updated to OPEN
+2015-02-02 13:24:58 - Window_GF_Living state updated to OPEN
+2015-02-02 13:24:58 - Window_GF_Toilet state updated to CLOSED
+2015-02-02 13:24:58 - Window_FF_Bath state updated to OPEN
+2015-02-02 13:24:58 - Window_FF_Bed state updated to CLOSED
+2015-02-02 13:24:58 - Window_FF_Office_Window state updated to OPEN
+2015-02-02 13:24:58 - Window_FF_Office_Door state updated to OPEN
+2015-02-02 13:24:58 - Garage_Door state updated to CLOSED
+2015-02-02 13:24:58 - Temperature_GF_Corridor state updated to 20.30000000
+2015-02-02 13:24:58 - Temperature_GF_Toilet state updated to 17.80000000
+2015-02-02 13:24:58 - Temperature_GF_Living state updated to 21.50000000
+2015-02-02 13:24:58 - Temperature_GF_Kitchen state updated to 18.20000000
+2015-02-02 13:24:58 - Temperature_FF_Bath state updated to 18.60000000
+2015-02-02 13:24:58 - Temperature_FF_Office state updated to 21.40000000
+2015-02-02 13:24:58 - Temperature_FF_Child state updated to 19.00000000
+2015-02-02 13:24:58 - Temperature_FF_Bed state updated to 20.50000000
+2015-02-02 13:25:00 - Temperature_GF_Corridor state updated to 19.40000000
+2015-02-02 13:25:00 - Temperature_GF_Toilet state updated to 20.30000000
+2015-02-02 13:25:00 - Temperature_GF_Living state updated to 18.40000000
+2015-02-02 13:25:00 - Temperature_GF_Kitchen state updated to 21.10000000
+2015-02-02 13:25:00 - Temperature_FF_Bath state updated to 17.60000000
+2015-02-02 13:25:00 - Temperature_FF_Office state updated to 18.00000000
+2015-02-02 13:25:00 - Temperature_FF_Child state updated to 18.70000000
+2015-02-02 13:25:00 - Temperature_FF_Bed state updated to 20.40000000
+2015-02-02 13:25:13 - Weather_Temp_Max state updated to 3
+2015-02-02 13:25:13 - Weather_LastUpdate state updated to 2015-02-02T13:25:13
+2015-02-02 13:25:13 - Weather_Temp_Min state updated to 3
+2015-02-02 13:25:18 - Date state updated to 2015-02-02T13:25:17
+2015-02-02 13:25:19 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:25:20 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:26:20 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:26:20 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:27:01 - Light_GF_Living_Table received command OFF
+2015-02-02 13:27:01 - Light_GF_Living_Table received command ON
+2015-02-02 13:27:02 - Light_GF_Living_Table received command ON
+2015-02-02 13:27:02 - Light_GF_Living_Table received command ON
+2015-02-02 13:27:03 - Light_GF_Living_Table received command OFF
+2015-02-02 13:27:04 - Heating_GF_Living received command OFF
+2015-02-02 13:27:05 - Heating_GF_Living received command ON
+2015-02-02 13:27:05 - Heating_GF_Living received command OFF
+2015-02-02 13:27:21 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:27:21 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:27:37 - Heating_GF_Living received command ON
+2015-02-02 13:27:43 - Light_GF_Corridor_Ceiling received command ON
+2015-02-02 13:27:44 - Light_GF_Corridor_Ceiling received command OFF
+2015-02-02 13:29:25 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:29:26 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:30:00 - Temperature_GF_Corridor state updated to 20.70000000
+2015-02-02 13:30:00 - Temperature_GF_Toilet state updated to 22.40000000
+2015-02-02 13:30:00 - Temperature_GF_Living state updated to 19.20000000
+2015-02-02 13:30:00 - Temperature_GF_Kitchen state updated to 20.20000000
+2015-02-02 13:30:00 - Temperature_FF_Bath state updated to 19.50000000
+2015-02-02 13:30:00 - Temperature_FF_Office state updated to 18.10000000
+2015-02-02 13:30:00 - Temperature_FF_Child state updated to 18.40000000
+2015-02-02 13:30:00 - Temperature_FF_Bed state updated to 18.40000000
+2015-02-02 13:30:27 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:30:27 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:27 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:30:27 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:27 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:28 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:28 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:28 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:28 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:28 - Shutter_FF_Bath received command DOWN
+2015-02-02 13:30:30 - Shutter_FF_Bath received command UP
+2015-02-02 13:30:30 - Shutter_FF_Bath received command UP
+2015-02-02 13:30:31 - Shutter_FF_Bath received command STOP
+2015-02-02 13:30:31 - Shutter_FF_Bath received command STOP
+2015-02-02 13:30:32 - Shutter_FF_Bath received command UP
+2015-02-02 13:30:32 - Shutter_FF_Bath received command UP
+2015-02-02 13:30:32 - Shutter_FF_Bath received command UP
+2015-02-02 13:30:33 - Light_FF_Bath_Mirror received command OFF
+2015-02-02 13:30:34 - Light_FF_Bath_Mirror received command ON
+2015-02-02 13:31:27 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:31:27 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:32:28 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:32:28 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:37:52 - Temperature_GF_Corridor state updated to 19.90000000
+2015-02-02 13:37:52 - Temperature_GF_Toilet state updated to 22.30000000
+2015-02-02 13:37:52 - Temperature_GF_Living state updated to 18.30000000
+2015-02-02 13:37:52 - Temperature_GF_Kitchen state updated to 19.20000000
+2015-02-02 13:37:52 - Temperature_FF_Bath state updated to 20.20000000
+2015-02-02 13:37:52 - Temperature_FF_Office state updated to 17.60000000
+2015-02-02 13:37:52 - Temperature_FF_Child state updated to 18.00000000
+2015-02-02 13:37:52 - Temperature_FF_Bed state updated to 21.10000000
+2015-02-02 13:38:51 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 13:38:51 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:00:40 - Light_GF_Living_Table state updated to OFF
+2015-02-02 15:00:40 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_GF_Kitchen_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_GF_Kitchen_Table state updated to ON
+2015-02-02 15:00:40 - Light_GF_Corridor_Wardrobe state updated to ON
+2015-02-02 15:00:40 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_GF_Toilet_Mirror state updated to OFF
+2015-02-02 15:00:40 - Light_FF_Bath_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_FF_Bath_Mirror state updated to ON
+2015-02-02 15:00:40 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_FF_Office_Ceiling state updated to ON
+2015-02-02 15:00:40 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_FF_Bed_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_C_Staircase state updated to ON
+2015-02-02 15:00:40 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-02 15:00:40 - Light_C_Workshop state updated to OFF
+2015-02-02 15:00:40 - Light_Outdoor_Garage state updated to ON
+2015-02-02 15:00:40 - Light_Outdoor_Terrace state updated to OFF
+2015-02-02 15:00:40 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-02 15:00:40 - Heating_GF_Corridor state updated to OFF
+2015-02-02 15:00:40 - Heating_GF_Toilet state updated to OFF
+2015-02-02 15:00:40 - Heating_GF_Living state updated to OFF
+2015-02-02 15:00:40 - Heating_GF_Kitchen state updated to ON
+2015-02-02 15:00:40 - Heating_FF_Bath state updated to OFF
+2015-02-02 15:00:40 - Heating_FF_Office state updated to ON
+2015-02-02 15:00:40 - Heating_FF_Child state updated to ON
+2015-02-02 15:00:40 - Heating_FF_Bed state updated to OFF
+2015-02-02 15:00:40 - Temperature_Setpoint state updated to 22
+2015-02-02 15:00:40 - Window_GF_Frontdoor state updated to OPEN
+2015-02-02 15:00:40 - Window_GF_Kitchen state updated to OPEN
+2015-02-02 15:00:40 - Window_GF_Living state updated to CLOSED
+2015-02-02 15:00:40 - Window_GF_Toilet state updated to CLOSED
+2015-02-02 15:00:40 - Window_FF_Bath state updated to OPEN
+2015-02-02 15:00:40 - Window_FF_Bed state updated to CLOSED
+2015-02-02 15:00:40 - Window_FF_Office_Window state updated to CLOSED
+2015-02-02 15:00:40 - Window_FF_Office_Door state updated to OPEN
+2015-02-02 15:00:40 - Garage_Door state updated to CLOSED
+2015-02-02 15:00:40 - Temperature_GF_Corridor state updated to 21.20000000
+2015-02-02 15:00:40 - Temperature_GF_Toilet state updated to 21.00000000
+2015-02-02 15:00:40 - Temperature_GF_Living state updated to 19.60000000
+2015-02-02 15:00:40 - Temperature_GF_Kitchen state updated to 19.40000000
+2015-02-02 15:00:40 - Temperature_FF_Bath state updated to 21.80000000
+2015-02-02 15:00:40 - Temperature_FF_Office state updated to 18.40000000
+2015-02-02 15:00:40 - Temperature_FF_Child state updated to 21.90000000
+2015-02-02 15:00:40 - Temperature_FF_Bed state updated to 20.20000000
+2015-02-02 15:00:40 - Weather_Temp_Max state updated to 3
+2015-02-02 15:00:40 - Weather_LastUpdate state updated to 2015-02-02T15:00:40
+2015-02-02 15:00:40 - Weather_Temp_Min state updated to 3
+2015-02-02 15:00:45 - Date state updated to 2015-02-02T15:00:45
+2015-02-02 15:00:48 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:00:48 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:01:59 - Light_GF_Living_Table state updated to OFF
+2015-02-02 15:01:59 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_GF_Kitchen_Ceiling state updated to ON
+2015-02-02 15:01:59 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-02 15:01:59 - Light_GF_Corridor_Wardrobe state updated to ON
+2015-02-02 15:01:59 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_GF_Toilet_Mirror state updated to ON
+2015-02-02 15:01:59 - Light_FF_Bath_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-02 15:01:59 - Light_FF_Corridor_Ceiling state updated to ON
+2015-02-02 15:01:59 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_FF_Bed_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_C_Staircase state updated to OFF
+2015-02-02 15:01:59 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-02 15:01:59 - Light_C_Workshop state updated to ON
+2015-02-02 15:01:59 - Light_Outdoor_Garage state updated to OFF
+2015-02-02 15:01:59 - Light_Outdoor_Terrace state updated to OFF
+2015-02-02 15:01:59 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-02 15:01:59 - Heating_GF_Corridor state updated to OFF
+2015-02-02 15:01:59 - Heating_GF_Toilet state updated to OFF
+2015-02-02 15:01:59 - Heating_GF_Living state updated to OFF
+2015-02-02 15:01:59 - Heating_GF_Kitchen state updated to OFF
+2015-02-02 15:01:59 - Heating_FF_Bath state updated to OFF
+2015-02-02 15:01:59 - Heating_FF_Office state updated to ON
+2015-02-02 15:01:59 - Heating_FF_Child state updated to OFF
+2015-02-02 15:01:59 - Heating_FF_Bed state updated to ON
+2015-02-02 15:01:59 - Temperature_Setpoint state updated to 22
+2015-02-02 15:01:59 - Window_GF_Frontdoor state updated to OPEN
+2015-02-02 15:01:59 - Window_GF_Kitchen state updated to CLOSED
+2015-02-02 15:01:59 - Window_GF_Living state updated to CLOSED
+2015-02-02 15:01:59 - Window_GF_Toilet state updated to CLOSED
+2015-02-02 15:01:59 - Window_FF_Bath state updated to OPEN
+2015-02-02 15:01:59 - Window_FF_Bed state updated to CLOSED
+2015-02-02 15:01:59 - Window_FF_Office_Window state updated to CLOSED
+2015-02-02 15:01:59 - Window_FF_Office_Door state updated to OPEN
+2015-02-02 15:01:59 - Garage_Door state updated to CLOSED
+2015-02-02 15:01:59 - Temperature_GF_Corridor state updated to 20.30000000
+2015-02-02 15:01:59 - Temperature_GF_Toilet state updated to 18.40000000
+2015-02-02 15:01:59 - Temperature_GF_Living state updated to 21.20000000
+2015-02-02 15:01:59 - Temperature_GF_Kitchen state updated to 20.50000000
+2015-02-02 15:01:59 - Temperature_FF_Bath state updated to 18.80000000
+2015-02-02 15:01:59 - Temperature_FF_Office state updated to 22.20000000
+2015-02-02 15:01:59 - Temperature_FF_Child state updated to 18.50000000
+2015-02-02 15:01:59 - Temperature_FF_Bed state updated to 20.90000000
+2015-02-02 15:02:49 - Light_GF_Living_Table state updated to OFF
+2015-02-02 15:02:49 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_GF_Kitchen_Ceiling state updated to ON
+2015-02-02 15:02:49 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-02 15:02:49 - Light_GF_Corridor_Wardrobe state updated to ON
+2015-02-02 15:02:49 - Light_GF_Toilet_Ceiling state updated to ON
+2015-02-02 15:02:49 - Light_GF_Toilet_Mirror state updated to OFF
+2015-02-02 15:02:49 - Light_FF_Bath_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-02 15:02:49 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_FF_Office_Ceiling state updated to ON
+2015-02-02 15:02:49 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_FF_Bed_Ceiling state updated to ON
+2015-02-02 15:02:49 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_C_Staircase state updated to OFF
+2015-02-02 15:02:49 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-02 15:02:49 - Light_C_Workshop state updated to OFF
+2015-02-02 15:02:49 - Light_Outdoor_Garage state updated to ON
+2015-02-02 15:02:49 - Light_Outdoor_Terrace state updated to OFF
+2015-02-02 15:02:49 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-02 15:02:49 - Heating_GF_Corridor state updated to OFF
+2015-02-02 15:02:49 - Heating_GF_Toilet state updated to ON
+2015-02-02 15:02:49 - Heating_GF_Living state updated to OFF
+2015-02-02 15:02:49 - Heating_GF_Kitchen state updated to ON
+2015-02-02 15:02:49 - Heating_FF_Bath state updated to OFF
+2015-02-02 15:02:49 - Heating_FF_Office state updated to ON
+2015-02-02 15:02:49 - Heating_FF_Child state updated to OFF
+2015-02-02 15:02:49 - Heating_FF_Bed state updated to OFF
+2015-02-02 15:02:49 - Temperature_Setpoint state updated to 22
+2015-02-02 15:02:49 - Window_GF_Frontdoor state updated to CLOSED
+2015-02-02 15:02:49 - Window_GF_Kitchen state updated to CLOSED
+2015-02-02 15:02:49 - Window_GF_Living state updated to OPEN
+2015-02-02 15:02:49 - Window_GF_Toilet state updated to OPEN
+2015-02-02 15:02:49 - Window_FF_Bath state updated to CLOSED
+2015-02-02 15:02:49 - Window_FF_Bed state updated to OPEN
+2015-02-02 15:02:49 - Window_FF_Office_Window state updated to OPEN
+2015-02-02 15:02:49 - Window_FF_Office_Door state updated to CLOSED
+2015-02-02 15:02:49 - Garage_Door state updated to OPEN
+2015-02-02 15:02:49 - Temperature_GF_Corridor state updated to 21.60000000
+2015-02-02 15:02:49 - Temperature_GF_Toilet state updated to 22.10000000
+2015-02-02 15:02:49 - Temperature_GF_Living state updated to 19.20000000
+2015-02-02 15:02:49 - Temperature_GF_Kitchen state updated to 18.00000000
+2015-02-02 15:02:49 - Temperature_FF_Bath state updated to 19.60000000
+2015-02-02 15:02:49 - Temperature_FF_Office state updated to 20.30000000
+2015-02-02 15:02:49 - Temperature_FF_Child state updated to 18.40000000
+2015-02-02 15:02:49 - Temperature_FF_Bed state updated to 20.10000000
+2015-02-02 15:02:50 - Weather_Temp_Max state updated to 3
+2015-02-02 15:02:51 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:02:51 - Weather_LastUpdate state updated to 2015-02-02T15:02:51
+2015-02-02 15:02:51 - Weather_Temp_Min state updated to 3
+2015-02-02 15:02:51 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:03:51 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:03:51 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:04:52 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:04:52 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:05:00 - Temperature_GF_Corridor state updated to 22.40000000
+2015-02-02 15:05:00 - Temperature_GF_Toilet state updated to 21.90000000
+2015-02-02 15:05:00 - Temperature_GF_Living state updated to 22.10000000
+2015-02-02 15:05:00 - Temperature_GF_Kitchen state updated to 20.50000000
+2015-02-02 15:05:00 - Temperature_FF_Bath state updated to 20.10000000
+2015-02-02 15:05:00 - Temperature_FF_Office state updated to 19.60000000
+2015-02-02 15:05:00 - Temperature_FF_Child state updated to 21.40000000
+2015-02-02 15:05:00 - Temperature_FF_Bed state updated to 21.70000000
+2015-02-02 15:05:52 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:05:52 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:06:52 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:06:52 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:08:07 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:08:07 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:09:08 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:09:08 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:10:00 - Temperature_GF_Corridor state updated to 18.30000000
+2015-02-02 15:10:00 - Temperature_GF_Toilet state updated to 18.60000000
+2015-02-02 15:10:00 - Temperature_GF_Living state updated to 22.10000000
+2015-02-02 15:10:00 - Temperature_GF_Kitchen state updated to 21.20000000
+2015-02-02 15:10:00 - Temperature_FF_Bath state updated to 19.20000000
+2015-02-02 15:10:00 - Temperature_FF_Office state updated to 20.00000000
+2015-02-02 15:10:00 - Temperature_FF_Child state updated to 20.20000000
+2015-02-02 15:10:00 - Temperature_FF_Bed state updated to 20.50000000
+2015-02-02 15:10:08 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:10:08 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:11:09 - Weather_Humidity state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:11:09 - Weather_Temperature state updated to <HTML><HEAD><TITLE> Web Authentication Redirect</TITLE><META http-equiv="Cache-control" content="no-cache"><META http-equiv="Pragma" content="no-cache"><META http-equiv="Expires" content="-1"><META http-equiv="refresh" content="1; URL=https://portail-captif.grenet.fr/login.html?redirect=weather.yahooapis.com/forecastrss?w=638242&u=c"></HEAD></HTML>
+
+2015-02-02 15:19:31 - Temperature_GF_Corridor state updated to 21.30000000
+2015-02-02 15:19:31 - Temperature_GF_Toilet state updated to 20.10000000
+2015-02-02 15:19:31 - Temperature_GF_Living state updated to 20.10000000
+2015-02-02 15:19:31 - Temperature_GF_Kitchen state updated to 21.90000000
+2015-02-02 15:19:31 - Temperature_FF_Bath state updated to 21.30000000
+2015-02-02 15:19:31 - Temperature_FF_Office state updated to 18.20000000
+2015-02-02 15:19:32 - Temperature_FF_Child state updated to 22.30000000
+2015-02-02 15:19:32 - Temperature_FF_Bed state updated to 19.70000000
+2015-02-02 15:20:00 - Temperature_GF_Corridor state updated to 21.00000000
+2015-02-02 15:20:00 - Temperature_GF_Toilet state updated to 20.50000000
+2015-02-02 15:20:00 - Temperature_GF_Living state updated to 20.60000000
+2015-02-02 15:20:00 - Temperature_GF_Kitchen state updated to 19.90000000
+2015-02-02 15:20:00 - Temperature_FF_Bath state updated to 19.10000000
+2015-02-02 15:20:00 - Temperature_FF_Office state updated to 19.30000000
+2015-02-02 15:20:00 - Temperature_FF_Child state updated to 18.20000000
+2015-02-02 15:20:00 - Temperature_FF_Bed state updated to 19.90000000
+2015-02-02 17:56:04 - Temperature_GF_Corridor state updated to 19.90000000
+2015-02-02 17:56:04 - Temperature_GF_Toilet state updated to 19.30000000
+2015-02-02 17:56:04 - Temperature_GF_Living state updated to 17.90000000
+2015-02-02 17:56:04 - Temperature_GF_Kitchen state updated to 22.50000000
+2015-02-02 17:56:04 - Temperature_FF_Bath state updated to 19.00000000
+2015-02-02 17:56:04 - Temperature_FF_Office state updated to 19.00000000
+2015-02-02 17:56:04 - Temperature_FF_Child state updated to 21.10000000
+2015-02-02 17:56:05 - Temperature_FF_Bed state updated to 22.00000000
+2015-02-02 17:57:04 - Weather_Humidity state updated to 81
+2015-02-02 17:57:04 - Weather_Humidex state updated to 0.8553776661763548
+2015-02-02 17:57:04 - Weather_Temperature state updated to 2
+2015-02-02 17:57:04 - Weather_LastUpdate state updated to 2015-02-02T17:57:04
+2015-02-02 17:57:04 - Weather_Temp_Max state updated to 3
+2015-02-02 17:57:04 - Weather_Temp_Min state updated to 2
+2015-02-02 17:57:04 - Weather_Humidex state updated to -0.3788711079198576
+2015-02-02 17:58:04 - Weather_Humidity state updated to 81
+2015-02-02 17:58:04 - Weather_Temperature state updated to 2
+2015-02-02 17:58:04 - Weather_LastUpdate state updated to 2015-02-02T17:58:04
+2015-02-02 17:59:04 - Weather_Humidity state updated to 81
+2015-02-02 17:59:04 - Weather_Temperature state updated to 2
+2015-02-02 17:59:04 - Weather_LastUpdate state updated to 2015-02-02T17:59:04
+2015-02-02 18:00:00 - Temperature_GF_Corridor state updated to 18.40000000
+2015-02-02 18:00:00 - Temperature_GF_Toilet state updated to 22.30000000
+2015-02-02 18:00:00 - Temperature_GF_Living state updated to 21.90000000
+2015-02-02 18:00:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2015-02-02 18:00:00 - Temperature_FF_Bath state updated to 22.40000000
+2015-02-02 18:00:00 - Temperature_FF_Office state updated to 17.90000000
+2015-02-02 18:00:00 - Temperature_FF_Child state updated to 20.50000000
+2015-02-02 18:00:00 - Temperature_FF_Bed state updated to 17.60000000
+2015-02-02 18:00:05 - Weather_Humidity state updated to 81
+2015-02-02 18:00:05 - Weather_Temperature state updated to 2
+2015-02-02 18:00:05 - Weather_LastUpdate state updated to 2015-02-02T18:00:05
+2015-02-02 18:01:05 - Weather_Humidity state updated to 81
+2015-02-02 18:01:05 - Weather_Temperature state updated to 2
+2015-02-02 18:01:05 - Weather_LastUpdate state updated to 2015-02-02T18:01:05
+2015-02-02 18:02:05 - Weather_Humidity state updated to 81
+2015-02-02 18:02:05 - Weather_Temperature state updated to 2
+2015-02-02 18:02:05 - Weather_LastUpdate state updated to 2015-02-02T18:02:05
+2015-02-02 18:03:06 - Weather_Humidity state updated to 81
+2015-02-02 18:03:06 - Weather_Temperature state updated to 2
+2015-02-02 18:03:06 - Weather_LastUpdate state updated to 2015-02-02T18:03:06
+2015-02-02 18:04:06 - Weather_Humidity state updated to 81
+2015-02-02 18:04:06 - Weather_Temperature state updated to 2
+2015-02-02 18:04:06 - Weather_LastUpdate state updated to 2015-02-02T18:04:06
+2015-02-02 18:05:00 - Temperature_GF_Corridor state updated to 22.00000000
+2015-02-02 18:05:00 - Temperature_GF_Toilet state updated to 18.00000000
+2015-02-02 18:05:00 - Temperature_GF_Living state updated to 19.90000000
+2015-02-02 18:05:00 - Temperature_GF_Kitchen state updated to 18.80000000
+2015-02-02 18:05:00 - Temperature_FF_Bath state updated to 19.30000000
+2015-02-02 18:05:00 - Temperature_FF_Office state updated to 21.30000000
+2015-02-02 18:05:00 - Temperature_FF_Child state updated to 20.20000000
+2015-02-02 18:05:00 - Temperature_FF_Bed state updated to 21.00000000
+2015-02-02 18:05:06 - Weather_Humidity state updated to 81
+2015-02-02 18:05:06 - Weather_Temperature state updated to 2
+2015-02-02 18:05:06 - Weather_LastUpdate state updated to 2015-02-02T18:05:06
+2015-02-02 18:06:06 - Weather_Humidity state updated to 81
+2015-02-02 18:06:07 - Weather_Temperature state updated to 2
+2015-02-02 18:06:07 - Weather_LastUpdate state updated to 2015-02-02T18:06:07
+2015-02-02 18:07:07 - Weather_Humidity state updated to 81
+2015-02-02 18:07:07 - Weather_Temperature state updated to 2
+2015-02-02 18:07:07 - Weather_LastUpdate state updated to 2015-02-02T18:07:07
+2015-02-02 18:08:07 - Weather_Humidity state updated to 81
+2015-02-02 18:08:07 - Weather_Temperature state updated to 2
+2015-02-02 18:08:07 - Weather_LastUpdate state updated to 2015-02-02T18:08:07
+2015-02-02 18:09:07 - Weather_Humidity state updated to 81
+2015-02-02 18:09:08 - Weather_Temperature state updated to 2
+2015-02-02 18:09:08 - Weather_LastUpdate state updated to 2015-02-02T18:09:08
+2015-02-02 18:40:00 - Light_GF_Living_Table state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Kitchen_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Corridor_Wardrobe state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_GF_Toilet_Mirror state updated to OFF
+2015-02-02 18:40:00 - Light_FF_Bath_Ceiling state updated to ON
+2015-02-02 18:40:00 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-02 18:40:00 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_FF_Bed_Ceiling state updated to ON
+2015-02-02 18:40:00 - Light_C_Corridor_Ceiling state updated to ON
+2015-02-02 18:40:00 - Light_C_Staircase state updated to OFF
+2015-02-02 18:40:00 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-02 18:40:00 - Light_C_Workshop state updated to OFF
+2015-02-02 18:40:00 - Light_Outdoor_Garage state updated to ON
+2015-02-02 18:40:00 - Light_Outdoor_Terrace state updated to ON
+2015-02-02 18:40:00 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-02 18:40:00 - Heating_GF_Corridor state updated to OFF
+2015-02-02 18:40:00 - Heating_GF_Toilet state updated to OFF
+2015-02-02 18:40:00 - Heating_GF_Living state updated to OFF
+2015-02-02 18:40:00 - Heating_GF_Kitchen state updated to OFF
+2015-02-02 18:40:00 - Heating_FF_Bath state updated to OFF
+2015-02-02 18:40:00 - Heating_FF_Office state updated to OFF
+2015-02-02 18:40:00 - Heating_FF_Child state updated to ON
+2015-02-02 18:40:00 - Heating_FF_Bed state updated to OFF
+2015-02-02 18:40:00 - Temperature_Setpoint state updated to 22
+2015-02-02 18:40:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-02-02 18:40:00 - Window_GF_Kitchen state updated to OPEN
+2015-02-02 18:40:00 - Window_GF_Living state updated to OPEN
+2015-02-02 18:40:00 - Window_GF_Toilet state updated to CLOSED
+2015-02-02 18:40:00 - Window_FF_Bath state updated to CLOSED
+2015-02-02 18:40:00 - Window_FF_Bed state updated to OPEN
+2015-02-02 18:40:00 - Window_FF_Office_Window state updated to CLOSED
+2015-02-02 18:40:00 - Window_FF_Office_Door state updated to CLOSED
+2015-02-02 18:40:00 - Garage_Door state updated to CLOSED
+2015-02-02 18:40:00 - Temperature_GF_Corridor state updated to 18.30000000
+2015-02-02 18:40:00 - Temperature_GF_Toilet state updated to 22.20000000
+2015-02-02 18:40:00 - Temperature_GF_Living state updated to 22.20000000
+2015-02-02 18:40:00 - Temperature_GF_Kitchen state updated to 19.50000000
+2015-02-02 18:40:00 - Temperature_FF_Bath state updated to 20.90000000
+2015-02-02 18:40:00 - Temperature_FF_Office state updated to 18.20000000
+2015-02-02 18:40:00 - Temperature_FF_Child state updated to 17.80000000
+2015-02-02 18:40:00 - Temperature_FF_Bed state updated to 21.20000000
+2015-02-02 18:40:00 - Temperature_GF_Corridor state updated to 18.90000000
+2015-02-02 18:40:00 - Temperature_GF_Toilet state updated to 20.90000000
+2015-02-02 18:40:00 - Temperature_GF_Living state updated to 20.00000000
+2015-02-02 18:40:00 - Temperature_GF_Kitchen state updated to 17.70000000
+2015-02-02 18:40:00 - Temperature_FF_Bath state updated to 21.60000000
+2015-02-02 18:40:00 - Temperature_FF_Office state updated to 20.70000000
+2015-02-02 18:40:00 - Temperature_FF_Child state updated to 19.20000000
+2015-02-02 18:40:00 - Temperature_FF_Bed state updated to 21.10000000
+2015-02-02 18:40:01 - Weather_Humidity state updated to 75
+2015-02-02 18:40:01 - Weather_Temperature state updated to 2
+2015-02-02 18:40:01 - Weather_Temp_Max state updated to 2
+2015-02-02 18:40:01 - Weather_LastUpdate state updated to 2015-02-02T18:40:01
+2015-02-02 18:40:02 - Weather_Temp_Min state updated to 2
+2015-02-02 18:40:02 - Weather_Humidex state updated to -0.6141810709134484
+2015-02-02 18:41:02 - Weather_Humidity state updated to 75
+2015-02-02 18:41:02 - Weather_Temperature state updated to 2
+2015-02-02 18:41:02 - Weather_LastUpdate state updated to 2015-02-02T18:41:02
+2015-02-02 18:42:02 - Weather_Humidity state updated to 75
+2015-02-02 18:42:02 - Weather_Temperature state updated to 2
+2015-02-02 18:42:02 - Weather_LastUpdate state updated to 2015-02-02T18:42:02
+2015-02-02 18:43:02 - Weather_Humidity state updated to 75
+2015-02-02 18:43:02 - Weather_Temperature state updated to 2
+2015-02-02 18:43:02 - Weather_LastUpdate state updated to 2015-02-02T18:43:02
+2015-02-02 18:44:03 - Weather_Humidity state updated to 75
+2015-02-02 18:44:03 - Weather_Temperature state updated to 2
+2015-02-02 18:44:03 - Weather_LastUpdate state updated to 2015-02-02T18:44:03
+2015-02-02 18:45:00 - Temperature_GF_Corridor state updated to 21.00000000
+2015-02-02 18:45:00 - Temperature_GF_Toilet state updated to 18.10000000
+2015-02-02 18:45:00 - Temperature_GF_Living state updated to 21.40000000
+2015-02-02 18:45:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2015-02-02 18:45:00 - Temperature_FF_Bath state updated to 22.30000000
+2015-02-02 18:45:00 - Temperature_FF_Office state updated to 21.50000000
+2015-02-02 18:45:00 - Temperature_FF_Child state updated to 17.80000000
+2015-02-02 18:45:00 - Temperature_FF_Bed state updated to 20.80000000
+2015-02-02 18:45:03 - Weather_Humidity state updated to 75
+2015-02-02 18:45:03 - Weather_Temperature state updated to 2
+2015-02-02 18:45:03 - Weather_LastUpdate state updated to 2015-02-02T18:45:03
+2015-02-02 18:46:03 - Weather_Humidity state updated to 75
+2015-02-02 18:46:04 - Weather_Temperature state updated to 2
+2015-02-02 18:46:04 - Weather_LastUpdate state updated to 2015-02-02T18:46:04
+2015-02-02 18:47:04 - Weather_Humidity state updated to 75
+2015-02-02 18:47:04 - Weather_Temperature state updated to 2
+2015-02-02 18:47:04 - Weather_LastUpdate state updated to 2015-02-02T18:47:04
+2015-02-02 18:48:04 - Weather_Humidity state updated to 75
+2015-02-02 18:48:05 - Weather_Temperature state updated to 2
+2015-02-02 18:48:05 - Weather_LastUpdate state updated to 2015-02-02T18:48:05
+2015-02-02 18:49:05 - Weather_Humidity state updated to 75
+2015-02-02 18:49:05 - Weather_Temperature state updated to 2
+2015-02-02 18:49:05 - Weather_LastUpdate state updated to 2015-02-02T18:49:05
+2015-02-02 18:50:00 - Temperature_GF_Corridor state updated to 18.60000000
+2015-02-02 18:50:00 - Temperature_GF_Toilet state updated to 18.30000000
+2015-02-02 18:50:00 - Temperature_GF_Living state updated to 19.00000000
+2015-02-02 18:50:00 - Temperature_GF_Kitchen state updated to 19.70000000
+2015-02-02 18:50:00 - Temperature_FF_Bath state updated to 18.20000000
+2015-02-02 18:50:00 - Temperature_FF_Office state updated to 19.20000000
+2015-02-02 18:50:00 - Temperature_FF_Child state updated to 21.40000000
+2015-02-02 18:50:00 - Temperature_FF_Bed state updated to 17.60000000
+2015-02-02 18:50:05 - Weather_Humidity state updated to 75
+2015-02-02 18:50:05 - Weather_Temperature state updated to 2
+2015-02-02 18:50:05 - Weather_LastUpdate state updated to 2015-02-02T18:50:05
+2015-02-02 18:51:05 - Weather_Humidity state updated to 75
+2015-02-02 18:51:05 - Weather_Temperature state updated to 2
+2015-02-02 18:51:05 - Weather_LastUpdate state updated to 2015-02-02T18:51:05
+2015-02-02 18:52:06 - Weather_Humidity state updated to 75
+2015-02-02 18:52:06 - Weather_Temperature state updated to 2
+2015-02-02 18:52:06 - Weather_LastUpdate state updated to 2015-02-02T18:52:06
+2015-02-02 18:53:06 - Weather_Humidity state updated to 75
+2015-02-02 18:53:06 - Weather_Temperature state updated to 2
+2015-02-02 18:53:06 - Weather_LastUpdate state updated to 2015-02-02T18:53:06
+2015-02-02 18:54:07 - Weather_Humidity state updated to 75
+2015-02-02 18:54:07 - Weather_Temperature state updated to 2
+2015-02-02 18:54:07 - Weather_LastUpdate state updated to 2015-02-02T18:54:07
+2015-02-02 18:55:00 - Temperature_GF_Corridor state updated to 21.70000000
+2015-02-02 18:55:00 - Temperature_GF_Toilet state updated to 19.90000000
+2015-02-02 18:55:00 - Temperature_GF_Living state updated to 22.10000000
+2015-02-02 18:55:00 - Temperature_GF_Kitchen state updated to 19.90000000
+2015-02-02 18:55:00 - Temperature_FF_Bath state updated to 18.60000000
+2015-02-02 18:55:00 - Temperature_FF_Office state updated to 19.90000000
+2015-02-02 18:55:00 - Temperature_FF_Child state updated to 21.60000000
+2015-02-02 18:55:00 - Temperature_FF_Bed state updated to 18.00000000
+2015-02-02 18:55:07 - Weather_Humidity state updated to 75
+2015-02-02 18:55:07 - Weather_Temperature state updated to 2
+2015-02-02 18:55:07 - Weather_LastUpdate state updated to 2015-02-02T18:55:07
+2015-02-02 18:56:08 - Weather_Humidity state updated to 75
+2015-02-02 18:56:08 - Weather_Temperature state updated to 2
+2015-02-02 18:56:08 - Weather_LastUpdate state updated to 2015-02-02T18:56:08
+2015-02-02 18:57:08 - Weather_Humidity state updated to 75
+2015-02-02 18:57:08 - Weather_Temperature state updated to 2
+2015-02-02 18:57:08 - Weather_LastUpdate state updated to 2015-02-02T18:57:08
+2015-02-02 18:58:08 - Weather_Humidity state updated to 75
+2015-02-02 18:58:08 - Weather_Temperature state updated to 2
+2015-02-02 18:58:08 - Weather_LastUpdate state updated to 2015-02-02T18:58:08
+2015-02-02 18:59:09 - Weather_Humidity state updated to 75
+2015-02-02 18:59:09 - Weather_Temperature state updated to 2
+2015-02-02 18:59:09 - Weather_LastUpdate state updated to 2015-02-02T18:59:09
+2015-02-02 19:00:00 - Temperature_GF_Corridor state updated to 21.10000000
+2015-02-02 19:00:00 - Temperature_GF_Toilet state updated to 19.30000000
+2015-02-02 19:00:00 - Temperature_GF_Living state updated to 22.00000000
+2015-02-02 19:00:00 - Temperature_GF_Kitchen state updated to 20.40000000
+2015-02-02 19:00:00 - Temperature_FF_Bath state updated to 19.30000000
+2015-02-02 19:00:00 - Temperature_FF_Office state updated to 21.20000000
+2015-02-02 19:00:00 - Temperature_FF_Child state updated to 18.60000000
+2015-02-02 19:00:00 - Temperature_FF_Bed state updated to 21.10000000
+2015-02-02 19:00:09 - Weather_Humidity state updated to 75
+2015-02-02 19:00:09 - Weather_Temperature state updated to 2
+2015-02-02 19:00:09 - Weather_LastUpdate state updated to 2015-02-02T19:00:09
+2015-02-02 19:01:09 - Weather_Humidity state updated to 75
+2015-02-02 19:01:09 - Weather_Temperature state updated to 2
+2015-02-02 19:01:09 - Weather_LastUpdate state updated to 2015-02-02T19:01:09
+2015-02-02 19:02:10 - Weather_Humidity state updated to 75
+2015-02-02 19:02:10 - Weather_Temperature state updated to 2
+2015-02-02 19:02:10 - Weather_LastUpdate state updated to 2015-02-02T19:02:10
+2015-02-02 19:03:10 - Weather_Humidity state updated to 75
+2015-02-02 19:03:10 - Weather_Temperature state updated to 2
+2015-02-02 19:03:10 - Weather_LastUpdate state updated to 2015-02-02T19:03:10
+2015-02-02 19:04:11 - Weather_Humidity state updated to 75
+2015-02-02 19:04:11 - Weather_Temperature state updated to 2
+2015-02-02 19:04:11 - Weather_LastUpdate state updated to 2015-02-02T19:04:11
+2015-02-02 19:05:00 - Temperature_GF_Corridor state updated to 20.40000000
+2015-02-02 19:05:00 - Temperature_GF_Toilet state updated to 18.50000000
+2015-02-02 19:05:00 - Temperature_GF_Living state updated to 21.60000000
+2015-02-02 19:05:00 - Temperature_GF_Kitchen state updated to 18.10000000
+2015-02-02 19:05:00 - Temperature_FF_Bath state updated to 19.80000000
+2015-02-02 19:05:00 - Temperature_FF_Office state updated to 22.50000000
+2015-02-02 19:05:00 - Temperature_FF_Child state updated to 22.50000000
+2015-02-02 19:05:00 - Temperature_FF_Bed state updated to 20.40000000
+2015-02-02 19:05:11 - Weather_Humidity state updated to 75
+2015-02-02 19:05:12 - Weather_Temperature state updated to 2
+2015-02-02 19:05:12 - Weather_LastUpdate state updated to 2015-02-02T19:05:12
+2015-02-02 19:06:12 - Weather_Humidity state updated to 75
+2015-02-02 19:06:12 - Weather_Temperature state updated to 2
+2015-02-02 19:06:12 - Weather_LastUpdate state updated to 2015-02-02T19:06:12
+2015-02-02 19:07:13 - Weather_Humidity state updated to 75
+2015-02-02 19:07:13 - Weather_Temperature state updated to 2
+2015-02-02 19:07:13 - Weather_LastUpdate state updated to 2015-02-02T19:07:13
+2015-02-02 19:08:13 - Weather_Humidity state updated to 75
+2015-02-02 19:08:13 - Weather_Temperature state updated to 2
+2015-02-02 19:08:13 - Weather_LastUpdate state updated to 2015-02-02T19:08:13
+2015-02-02 19:09:14 - Weather_Humidity state updated to 75
+2015-02-02 19:09:14 - Weather_Temperature state updated to 2
+2015-02-02 19:09:14 - Weather_LastUpdate state updated to 2015-02-02T19:09:14
+2015-02-02 19:10:00 - Temperature_GF_Corridor state updated to 20.80000000
+2015-02-02 19:10:00 - Temperature_GF_Toilet state updated to 18.90000000
+2015-02-02 19:10:00 - Temperature_GF_Living state updated to 22.00000000
+2015-02-02 19:10:00 - Temperature_GF_Kitchen state updated to 20.50000000
+2015-02-02 19:10:00 - Temperature_FF_Bath state updated to 19.10000000
+2015-02-02 19:10:00 - Temperature_FF_Office state updated to 22.30000000
+2015-02-02 19:10:00 - Temperature_FF_Child state updated to 21.40000000
+2015-02-02 19:10:00 - Temperature_FF_Bed state updated to 20.30000000
+2015-02-02 19:10:14 - Weather_Humidity state updated to 75
+2015-02-02 19:10:14 - Weather_Temperature state updated to 2
+2015-02-02 19:10:14 - Weather_LastUpdate state updated to 2015-02-02T19:10:14
+2015-02-02 19:11:15 - Weather_Humidity state updated to 75
+2015-02-02 19:11:15 - Weather_Temperature state updated to 2
+2015-02-02 19:11:15 - Weather_LastUpdate state updated to 2015-02-02T19:11:15
+2015-02-02 19:12:16 - Weather_Humidity state updated to 75
+2015-02-02 19:12:16 - Weather_Temperature state updated to 2
+2015-02-02 19:12:16 - Weather_LastUpdate state updated to 2015-02-02T19:12:16
+2015-02-02 19:13:16 - Weather_Humidity state updated to 75
+2015-02-02 19:13:16 - Weather_Temperature state updated to 2
+2015-02-02 19:13:16 - Weather_LastUpdate state updated to 2015-02-02T19:13:16
+2015-02-02 19:14:17 - Weather_Humidity state updated to 75
+2015-02-02 19:14:17 - Weather_Temperature state updated to 2
+2015-02-02 19:14:17 - Weather_LastUpdate state updated to 2015-02-02T19:14:17
+2015-02-02 19:15:00 - Temperature_GF_Corridor state updated to 21.00000000
+2015-02-02 19:15:00 - Temperature_GF_Toilet state updated to 21.20000000
+2015-02-02 19:15:00 - Temperature_GF_Living state updated to 22.50000000
+2015-02-02 19:15:00 - Temperature_GF_Kitchen state updated to 18.60000000
+2015-02-02 19:15:00 - Temperature_FF_Bath state updated to 18.70000000
+2015-02-02 19:15:00 - Temperature_FF_Office state updated to 22.30000000
+2015-02-02 19:15:00 - Temperature_FF_Child state updated to 22.40000000
+2015-02-02 19:15:00 - Temperature_FF_Bed state updated to 20.00000000
+2015-02-02 19:15:18 - Weather_Humidity state updated to 75
+2015-02-02 19:15:18 - Weather_Temperature state updated to 2
+2015-02-02 19:15:18 - Weather_LastUpdate state updated to 2015-02-02T19:15:18
+2015-02-02 19:16:19 - Weather_Humidity state updated to 75
+2015-02-02 19:16:19 - Weather_Temperature state updated to 2
+2015-02-02 19:16:19 - Weather_LastUpdate state updated to 2015-02-02T19:16:19
+2015-02-02 19:17:19 - Weather_Humidity state updated to 75
+2015-02-02 19:17:19 - Weather_Temperature state updated to 2
+2015-02-02 19:17:19 - Weather_LastUpdate state updated to 2015-02-02T19:17:19
+2015-02-02 19:18:19 - Weather_Humidity state updated to 75
+2015-02-02 19:18:20 - Weather_Temperature state updated to 2
+2015-02-02 19:18:20 - Weather_LastUpdate state updated to 2015-02-02T19:18:20
+2015-02-02 19:19:20 - Weather_Humidity state updated to 75
+2015-02-02 19:19:20 - Weather_Temperature state updated to 2
+2015-02-02 19:19:20 - Weather_LastUpdate state updated to 2015-02-02T19:19:20
+2015-02-02 19:20:00 - Temperature_GF_Corridor state updated to 18.50000000
+2015-02-02 19:20:00 - Temperature_GF_Toilet state updated to 19.40000000
+2015-02-02 19:20:00 - Temperature_GF_Living state updated to 21.80000000
+2015-02-02 19:20:00 - Temperature_GF_Kitchen state updated to 18.10000000
+2015-02-02 19:20:00 - Temperature_FF_Bath state updated to 17.60000000
+2015-02-02 19:20:00 - Temperature_FF_Office state updated to 21.70000000
+2015-02-02 19:20:00 - Temperature_FF_Child state updated to 19.60000000
+2015-02-02 19:20:00 - Temperature_FF_Bed state updated to 19.40000000
+2015-02-02 19:20:21 - Weather_Humidity state updated to 75
+2015-02-02 19:20:21 - Weather_Temperature state updated to 2
+2015-02-02 19:20:21 - Weather_LastUpdate state updated to 2015-02-02T19:20:21
+2015-02-02 19:21:22 - Weather_Humidity state updated to 75
+2015-02-02 19:21:22 - Weather_Temperature state updated to 2
+2015-02-02 19:21:22 - Weather_LastUpdate state updated to 2015-02-02T19:21:22
+2015-02-02 19:22:22 - Weather_Humidity state updated to 75
+2015-02-02 19:22:23 - Weather_Temperature state updated to 2
+2015-02-02 19:22:23 - Weather_LastUpdate state updated to 2015-02-02T19:22:23
+2015-02-02 19:23:23 - Weather_Humidity state updated to 75
+2015-02-02 19:23:23 - Weather_Temperature state updated to 2
+2015-02-02 19:23:23 - Weather_LastUpdate state updated to 2015-02-02T19:23:23
+2015-02-02 19:24:23 - Weather_Humidity state updated to 75
+2015-02-02 19:24:23 - Weather_Temperature state updated to 2
+2015-02-02 19:24:23 - Weather_LastUpdate state updated to 2015-02-02T19:24:23
+2015-02-02 19:25:00 - Temperature_GF_Corridor state updated to 22.00000000
+2015-02-02 19:25:00 - Temperature_GF_Toilet state updated to 17.60000000
+2015-02-02 19:25:00 - Temperature_GF_Living state updated to 20.90000000
+2015-02-02 19:25:00 - Temperature_GF_Kitchen state updated to 17.70000000
+2015-02-02 19:25:00 - Temperature_FF_Bath state updated to 21.20000000
+2015-02-02 19:25:00 - Temperature_FF_Office state updated to 21.50000000
+2015-02-02 19:25:00 - Temperature_FF_Child state updated to 19.70000000
+2015-02-02 19:25:00 - Temperature_FF_Bed state updated to 19.10000000
+2015-02-02 19:25:24 - Weather_Humidity state updated to 75
+2015-02-02 19:25:24 - Weather_Temperature state updated to 2
+2015-02-02 19:25:24 - Weather_LastUpdate state updated to 2015-02-02T19:25:24
+2015-02-02 19:26:24 - Weather_Humidity state updated to 75
+2015-02-02 19:26:24 - Weather_Temperature state updated to 2
+2015-02-02 19:26:24 - Weather_LastUpdate state updated to 2015-02-02T19:26:24
+2015-02-02 19:27:24 - Weather_Humidity state updated to 75
+2015-02-02 19:27:24 - Weather_Temperature state updated to 2
+2015-02-02 19:27:24 - Weather_LastUpdate state updated to 2015-02-02T19:27:24
+2015-02-02 19:28:25 - Weather_Humidity state updated to 75
+2015-02-02 19:28:25 - Weather_Temperature state updated to 2
+2015-02-02 19:28:25 - Weather_LastUpdate state updated to 2015-02-02T19:28:25
+2015-02-02 19:29:25 - Weather_Humidity state updated to 75
+2015-02-02 19:29:25 - Weather_Temperature state updated to 2
+2015-02-02 19:29:25 - Weather_LastUpdate state updated to 2015-02-02T19:29:25
+2015-02-02 19:30:00 - Temperature_GF_Corridor state updated to 20.50000000
+2015-02-02 19:30:00 - Temperature_GF_Toilet state updated to 17.90000000
+2015-02-02 19:30:00 - Temperature_GF_Living state updated to 21.40000000
+2015-02-02 19:30:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2015-02-02 19:30:00 - Temperature_FF_Bath state updated to 17.80000000
+2015-02-02 19:30:00 - Temperature_FF_Office state updated to 20.90000000
+2015-02-02 19:30:00 - Temperature_FF_Child state updated to 17.60000000
+2015-02-02 19:30:00 - Temperature_FF_Bed state updated to 20.40000000
+2015-02-03 14:32:08 - Light_GF_Living_Table state updated to OFF
+2015-02-03 14:32:09 - Light_GF_Corridor_Ceiling state updated to ON
+2015-02-03 14:32:09 - Light_GF_Kitchen_Ceiling state updated to ON
+2015-02-03 14:32:09 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-03 14:32:09 - Light_GF_Corridor_Wardrobe state updated to OFF
+2015-02-03 14:32:09 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_GF_Toilet_Mirror state updated to ON
+2015-02-03 14:32:09 - Light_FF_Bath_Ceiling state updated to ON
+2015-02-03 14:32:09 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-03 14:32:09 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_FF_Bed_Ceiling state updated to ON
+2015-02-03 14:32:09 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_C_Staircase state updated to ON
+2015-02-03 14:32:09 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-03 14:32:09 - Light_C_Workshop state updated to OFF
+2015-02-03 14:32:09 - Light_Outdoor_Garage state updated to ON
+2015-02-03 14:32:09 - Light_Outdoor_Terrace state updated to ON
+2015-02-03 14:32:09 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-03 14:32:09 - Heating_GF_Corridor state updated to OFF
+2015-02-03 14:32:09 - Heating_GF_Toilet state updated to OFF
+2015-02-03 14:32:09 - Heating_GF_Living state updated to OFF
+2015-02-03 14:32:09 - Heating_GF_Kitchen state updated to OFF
+2015-02-03 14:32:09 - Heating_FF_Bath state updated to ON
+2015-02-03 14:32:09 - Heating_FF_Office state updated to OFF
+2015-02-03 14:32:09 - Heating_FF_Child state updated to OFF
+2015-02-03 14:32:09 - Heating_FF_Bed state updated to ON
+2015-02-03 14:32:09 - Temperature_Setpoint state updated to 22
+2015-02-03 14:32:09 - Window_GF_Frontdoor state updated to OPEN
+2015-02-03 14:32:09 - Window_GF_Kitchen state updated to CLOSED
+2015-02-03 14:32:09 - Window_GF_Living state updated to OPEN
+2015-02-03 14:32:09 - Window_GF_Toilet state updated to CLOSED
+2015-02-03 14:32:09 - Window_FF_Bath state updated to CLOSED
+2015-02-03 14:32:09 - Window_FF_Bed state updated to CLOSED
+2015-02-03 14:32:09 - Window_FF_Office_Window state updated to OPEN
+2015-02-03 14:32:09 - Window_FF_Office_Door state updated to CLOSED
+2015-02-03 14:32:09 - Garage_Door state updated to OPEN
+2015-02-03 14:32:09 - Temperature_GF_Corridor state updated to 19.60000000
+2015-02-03 14:32:09 - Temperature_GF_Toilet state updated to 19.10000000
+2015-02-03 14:32:09 - Temperature_GF_Living state updated to 17.70000000
+2015-02-03 14:32:09 - Temperature_GF_Kitchen state updated to 19.70000000
+2015-02-03 14:32:09 - Temperature_FF_Bath state updated to 19.90000000
+2015-02-03 14:32:09 - Temperature_FF_Office state updated to 17.60000000
+2015-02-03 14:32:09 - Temperature_FF_Child state updated to 19.50000000
+2015-02-03 14:32:09 - Temperature_FF_Bed state updated to 17.80000000
+2015-02-03 14:35:00 - Temperature_GF_Corridor state updated to 19.60000000
+2015-02-03 14:35:00 - Temperature_GF_Toilet state updated to 18.90000000
+2015-02-03 14:35:00 - Temperature_GF_Living state updated to 21.70000000
+2015-02-03 14:35:00 - Temperature_GF_Kitchen state updated to 19.60000000
+2015-02-03 14:35:00 - Temperature_FF_Bath state updated to 20.70000000
+2015-02-03 14:35:00 - Temperature_FF_Office state updated to 21.00000000
+2015-02-03 14:35:00 - Temperature_FF_Child state updated to 22.00000000
+2015-02-03 14:35:00 - Temperature_FF_Bed state updated to 21.70000000
+2015-02-03 14:41:14 - Light_GF_Living_Table state updated to ON
+2015-02-03 14:41:14 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_GF_Kitchen_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_GF_Kitchen_Table state updated to ON
+2015-02-03 14:41:14 - Light_GF_Corridor_Wardrobe state updated to OFF
+2015-02-03 14:41:14 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_GF_Toilet_Mirror state updated to ON
+2015-02-03 14:41:14 - Light_FF_Bath_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-03 14:41:14 - Light_FF_Corridor_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_FF_Bed_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_C_Corridor_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_C_Staircase state updated to OFF
+2015-02-03 14:41:14 - Light_C_Washing_Ceiling state updated to OFF
+2015-02-03 14:41:14 - Light_C_Workshop state updated to ON
+2015-02-03 14:41:14 - Light_Outdoor_Garage state updated to ON
+2015-02-03 14:41:14 - Light_Outdoor_Terrace state updated to ON
+2015-02-03 14:41:14 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-03 14:41:14 - Heating_GF_Corridor state updated to ON
+2015-02-03 14:41:14 - Heating_GF_Toilet state updated to OFF
+2015-02-03 14:41:14 - Heating_GF_Living state updated to OFF
+2015-02-03 14:41:14 - Heating_GF_Kitchen state updated to OFF
+2015-02-03 14:41:14 - Heating_FF_Bath state updated to OFF
+2015-02-03 14:41:14 - Heating_FF_Office state updated to OFF
+2015-02-03 14:41:14 - Heating_FF_Child state updated to OFF
+2015-02-03 14:41:14 - Heating_FF_Bed state updated to OFF
+2015-02-03 14:41:14 - Temperature_Setpoint state updated to 22
+2015-02-03 14:41:14 - Window_GF_Frontdoor state updated to CLOSED
+2015-02-03 14:41:14 - Window_GF_Kitchen state updated to OPEN
+2015-02-03 14:41:14 - Window_GF_Living state updated to OPEN
+2015-02-03 14:41:14 - Window_GF_Toilet state updated to OPEN
+2015-02-03 14:41:14 - Window_FF_Bath state updated to CLOSED
+2015-02-03 14:41:14 - Window_FF_Bed state updated to OPEN
+2015-02-03 14:41:14 - Window_FF_Office_Window state updated to OPEN
+2015-02-03 14:41:14 - Window_FF_Office_Door state updated to CLOSED
+2015-02-03 14:41:14 - Garage_Door state updated to OPEN
+2015-02-03 14:41:14 - Temperature_GF_Corridor state updated to 19.10000000
+2015-02-03 14:41:14 - Temperature_GF_Toilet state updated to 21.90000000
+2015-02-03 14:41:14 - Temperature_GF_Living state updated to 21.00000000
+2015-02-03 14:41:14 - Temperature_GF_Kitchen state updated to 18.80000000
+2015-02-03 14:41:14 - Temperature_FF_Bath state updated to 20.60000000
+2015-02-03 14:41:14 - Temperature_FF_Office state updated to 20.00000000
+2015-02-03 14:41:14 - Temperature_FF_Child state updated to 22.50000000
+2015-02-03 14:41:14 - Temperature_FF_Bed state updated to 18.10000000
+2015-02-03 14:42:15 - Light_FF_Bath_Ceiling received command ON
+2015-02-03 14:42:16 - Light_FF_Bath_Mirror received command ON
+2015-02-03 14:42:16 - Heating_FF_Bath received command ON
+2015-02-03 14:42:17 - Light_GF_Living_Table state updated to OFF
+2015-02-03 14:42:17 - Light_GF_Corridor_Ceiling state updated to OFF
+2015-02-03 14:42:17 - Light_GF_Kitchen_Ceiling state updated to ON
+2015-02-03 14:42:17 - Light_GF_Kitchen_Table state updated to OFF
+2015-02-03 14:42:17 - Light_GF_Corridor_Wardrobe state updated to ON
+2015-02-03 14:42:17 - Light_GF_Toilet_Ceiling state updated to OFF
+2015-02-03 14:42:17 - Light_GF_Toilet_Mirror state updated to OFF
+2015-02-03 14:42:17 - Light_FF_Bath_Ceiling state updated to ON
+2015-02-03 14:42:17 - Light_FF_Bath_Mirror state updated to OFF
+2015-02-03 14:42:17 - Light_FF_Corridor_Ceiling state updated to ON
+2015-02-03 14:42:17 - Light_FF_Office_Ceiling state updated to OFF
+2015-02-03 14:42:17 - Light_FF_Child_Ceiling state updated to OFF
+2015-02-03 14:42:17 - Light_FF_Bed_Ceiling state updated to OFF
+2015-02-03 14:42:17 - Light_C_Corridor_Ceiling state updated to ON
+2015-02-03 14:42:17 - Light_C_Staircase state updated to ON
+2015-02-03 14:42:17 - Light_C_Washing_Ceiling state updated to ON
+2015-02-03 14:42:17 - Light_C_Workshop state updated to OFF
+2015-02-03 14:42:17 - Light_Outdoor_Garage state updated to OFF
+2015-02-03 14:42:17 - Light_Outdoor_Terrace state updated to OFF
+2015-02-03 14:42:17 - Light_Outdoor_Frontdoor state updated to OFF
+2015-02-03 14:42:17 - Heating_GF_Corridor state updated to OFF
+2015-02-03 14:42:17 - Heating_GF_Toilet state updated to OFF
+2015-02-03 14:42:17 - Heating_GF_Living state updated to OFF
+2015-02-03 14:42:17 - Heating_GF_Kitchen state updated to OFF
+2015-02-03 14:42:17 - Heating_FF_Bath state updated to OFF
+2015-02-03 14:42:17 - Heating_FF_Office state updated to OFF
+2015-02-03 14:42:17 - Heating_FF_Child state updated to OFF
+2015-02-03 14:42:17 - Heating_FF_Bed state updated to OFF
+2015-02-03 14:42:17 - Temperature_Setpoint state updated to 22
+2015-02-03 14:42:18 - Window_GF_Frontdoor state updated to CLOSED
+2015-02-03 14:42:18 - Window_GF_Kitchen state updated to OPEN
+2015-02-03 14:42:18 - Window_GF_Living state updated to CLOSED
+2015-02-03 14:42:18 - Window_GF_Toilet state updated to CLOSED
+2015-02-03 14:42:18 - Window_FF_Bath state updated to CLOSED
+2015-02-03 14:42:18 - Window_FF_Bed state updated to CLOSED
+2015-02-03 14:42:18 - Window_FF_Office_Window state updated to CLOSED
+2015-02-03 14:42:18 - Window_FF_Office_Door state updated to OPEN
+2015-02-03 14:42:18 - Garage_Door state updated to OPEN
+2015-02-03 14:42:18 - Temperature_GF_Corridor state updated to 19.70000000
+2015-02-03 14:42:18 - Temperature_GF_Toilet state updated to 19.40000000
+2015-02-03 14:42:18 - Temperature_GF_Living state updated to 21.10000000
+2015-02-03 14:42:18 - Temperature_GF_Kitchen state updated to 21.00000000
+2015-02-03 14:42:18 - Temperature_FF_Bath state updated to 22.20000000
+2015-02-03 14:42:18 - Temperature_FF_Office state updated to 17.70000000
+2015-02-03 14:42:18 - Temperature_FF_Child state updated to 22.40000000
+2015-02-03 14:42:18 - Temperature_FF_Bed state updated to 18.50000000
