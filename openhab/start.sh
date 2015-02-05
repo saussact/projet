@@ -16,7 +16,7 @@ echo Launching the openHAB runtime...
 java -Dosgi.clean=true -Declipse.ignoreApp=true -Dosgi.noShutdown=true -Djetty.port=$HTTP_PORT -Djetty.port.ssl=$HTTPS_PORT -Djetty.home=. -Dlogback.configurationFile=configurations/logback.xml -Dfelix.fileinstall.dir=addons -Djava.library.path=lib -Djava.security.auth.login.config=./etc/login.conf -Dorg.quartz.properties=./etc/quartz.properties -Dequinox.ds.block_timeout=240000 -Dequinox.scr.waitTimeOnBlock=60000 -Dfelix.fileinstall.active.level=4 -Djava.awt.headless=true -jar $cp $* -console 
 
 # For Apache Felix UPnP Tester
-OPTIONS="$OPTIONS -Djava.awt.headless=false"
+OPTIONS="$OPTIONS -D java.awt.headless=false"
 
 # For Apache Felix Bundle Repository
 OPTIONS="$OPTIONS -Dobr.repository.url=http://felix.apache.org/obr/releases.xml"

@@ -2436,3 +2436,236 @@ javax.bluetooth.BluetoothStateException: BlueCove com.intel.bluetooth.BluetoothS
 2015-02-03 14:42:28.168 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
 2015-02-03 14:42:33.794 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
 2015-02-03 14:42:33.843 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 15:31:50.990 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 15:31:50.999 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 15:31:51.990 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 15:31:52.016 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 15:31:53.882 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 15:32:01.607 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 15:32:01.752 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 15:32:01.838 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 15:32:01.933 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 15:32:01.946 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 15:32:01.949 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 15:32:01.952 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 15:32:01.973 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 15:32:02.413 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 15:32:12.097 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 15:32:13.683 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 15:32:13.686 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 15:32:13.687 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 15:32:22.033 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2015-02-04 15:32:22.054 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2015-02-04 15:32:22.055 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2015-02-04 15:32:22.055 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2015-02-04 15:32:22.055 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2015-02-04 15:32:22.055 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2015-02-04 15:32:22.056 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2015-02-04 15:32:22.056 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2015-02-04 15:32:22.056 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2015-02-04 15:32:22.056 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2015-02-04 15:32:22.056 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2015-02-04 15:32:22.056 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2015-02-04 15:32:22.346 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2015-02-04 15:32:27.655 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2015-02-04 15:32:27.677 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2015-02-04 15:32:27.856 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 15:32:27.931 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2015-02-04 15:32:27.956 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2015-02-04 15:33:20.983 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 15:33:20.990 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 15:33:22.098 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 15:33:22.123 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 15:33:23.832 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 15:33:31.782 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 15:33:31.958 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 15:33:32.090 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 15:33:32.271 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 15:33:32.291 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 15:33:32.294 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 15:33:32.298 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 15:33:32.328 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 15:33:32.446 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 15:33:42.495 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 15:33:43.793 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 15:33:43.794 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 15:33:43.795 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 15:33:52.359 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2015-02-04 15:33:52.380 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2015-02-04 15:33:52.380 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2015-02-04 15:33:52.380 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2015-02-04 15:33:52.380 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2015-02-04 15:33:52.380 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2015-02-04 15:33:52.381 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2015-02-04 15:33:52.381 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2015-02-04 15:33:52.381 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2015-02-04 15:33:52.381 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2015-02-04 15:33:52.381 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2015-02-04 15:33:52.381 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2015-02-04 15:33:52.381 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2015-02-04 15:33:52.381 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2015-02-04 15:33:52.381 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2015-02-04 15:33:52.382 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2015-02-04 15:33:52.382 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2015-02-04 15:33:52.722 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2015-02-04 15:33:58.047 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2015-02-04 15:33:58.071 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2015-02-04 15:33:58.403 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 15:33:58.601 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2015-02-04 15:33:58.610 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2015-02-04 15:34:00.208 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 15:34:00.209 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 17:44:55.658 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 17:44:55.663 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 17:44:56.722 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 17:44:56.759 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 17:44:58.705 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 17:45:06.373 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 17:45:06.497 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 17:45:06.584 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 17:45:06.686 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 17:45:06.701 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 17:45:06.705 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 17:45:06.709 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 17:45:06.730 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 17:45:07.135 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 17:45:13.349 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-02-04 17:45:16.854 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 17:45:18.056 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 17:45:18.058 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 17:45:18.059 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 17:45:20.022 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-02-04 17:46:47.433 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 17:46:47.439 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 17:46:48.166 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 17:46:48.196 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 17:46:49.841 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 17:46:57.908 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 17:46:58.027 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 17:46:58.112 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 17:46:58.200 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 17:46:58.212 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 17:46:58.214 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 17:46:58.217 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 17:46:58.236 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 17:46:58.629 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 17:47:08.375 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 17:47:09.570 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 17:47:09.572 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 17:47:09.573 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 17:47:18.401 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2015-02-04 17:47:18.423 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2015-02-04 17:47:18.423 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2015-02-04 17:47:18.423 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2015-02-04 17:47:18.424 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2015-02-04 17:47:18.424 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2015-02-04 17:47:18.424 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2015-02-04 17:47:18.424 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2015-02-04 17:47:18.424 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2015-02-04 17:47:18.425 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2015-02-04 17:47:18.425 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2015-02-04 17:47:18.425 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2015-02-04 17:47:18.425 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2015-02-04 17:47:18.426 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2015-02-04 17:47:18.426 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2015-02-04 17:47:18.426 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2015-02-04 17:47:18.426 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2015-02-04 17:47:18.726 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2015-02-04 17:47:24.014 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2015-02-04 17:47:24.037 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2015-02-04 17:47:24.194 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 17:47:24.269 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2015-02-04 17:47:24.289 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2015-02-04 18:01:11.144 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 18:01:11.151 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 18:01:11.984 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 18:01:12.009 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 18:01:13.715 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 18:01:21.686 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 18:01:21.805 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 18:01:21.888 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 18:01:21.977 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 18:01:21.990 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 18:01:21.993 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 18:01:21.996 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 18:01:22.016 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 18:01:22.592 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 18:01:32.149 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 18:01:33.557 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 18:01:33.559 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 18:01:33.560 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 18:01:42.201 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2015-02-04 18:01:42.217 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2015-02-04 18:01:42.217 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2015-02-04 18:01:42.217 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2015-02-04 18:01:42.218 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2015-02-04 18:01:42.219 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2015-02-04 18:01:42.219 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2015-02-04 18:01:42.536 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2015-02-04 18:01:47.891 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2015-02-04 18:01:47.913 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2015-02-04 18:01:48.099 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 18:01:48.191 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2015-02-04 18:01:48.191 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2015-02-04 18:01:52.782 [INFO ] [.b.sonos.internal.SonosBinding] - A non-Sonos device (neufbox router 1) is found and will be ignored
+2015-02-04 18:03:58.603 [WARN ] [o.config.core.ConfigDispatcher] - Main openHAB configuration file 'configurations/openhab.cfg' does not exist.
+2015-02-04 18:03:58.608 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.1).
+2015-02-04 18:03:59.333 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-02-04 18:03:59.356 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-02-04 18:04:01.179 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-02-04 18:04:09.077 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-02-04 18:04:09.197 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.sitemap'
+2015-02-04 18:04:09.274 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-02-04 18:04:09.359 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-02-04 18:04:09.374 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-02-04 18:04:09.377 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-02-04 18:04:09.380 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-02-04 18:04:09.405 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-02-04 18:04:09.641 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-02-04 18:04:19.537 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-02-04 18:04:20.790 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2015-02-04 18:04:20.791 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2015-02-04 18:04:20.792 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'upnp.rules'
+2015-02-04 18:04:29.673 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2015-02-04 18:04:29.701 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2015-02-04 18:04:29.702 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2015-02-04 18:04:29.703 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2015-02-04 18:04:29.703 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2015-02-04 18:04:29.703 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2015-02-04 18:04:29.703 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2015-02-04 18:04:29.704 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2015-02-04 18:04:29.704 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2015-02-04 18:04:29.704 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2015-02-04 18:04:30.019 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2015-02-04 18:04:35.377 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2015-02-04 18:04:35.399 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2015-02-04 18:04:35.573 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2015-02-04 18:04:35.648 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2015-02-04 18:04:35.666 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
